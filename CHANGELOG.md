@@ -1,3 +1,8 @@
+## 1.5.0
+
+- The login page offers goblog's password form (the shared `_password_login` partial) when the site has a password account, under the GitHub button. Until now a site with both GitHub login and a password admin showed only GitHub on this theme (goblog #666).
+- **Requires goblog 0.14.0**, the first release with password login and the partial.
+
 ## 1.4.1
 
 - On a post page, the admin-only link sections (Backlinks, Linked Posts, External Links, External Backlinks) and the comments sit on cards like the post body. They were drawn straight onto the background photo, where the text was hard to read.
