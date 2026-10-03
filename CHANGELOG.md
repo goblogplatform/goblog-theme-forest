@@ -1,3 +1,7 @@
+## 1.4.1
+
+- On a post page, the admin-only link sections (Backlinks, Linked Posts, External Links, External Backlinks) and the comments sit on cards like the post body. They were drawn straight onto the background photo, where the text was hard to read.
+
 ## 1.4.0
 
 - The footer's "Powered by goblog" line comes from goblog's shared `_powered_by` partial instead of being written out in the theme. It now links to [goblog.live](https://www.goblog.live) rather than the GitHub repository, and a site can hide it with the **Show "Powered by goblog"** setting under Admin → Settings → Appearance (goblog #644).

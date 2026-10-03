@@ -108,3 +108,6 @@ video {
 /* The "Powered by goblog" credit is goblog's shared _powered_by partial; its
    link takes the colour of the footer line around it. */
 .powered-by a { color: inherit; }
+
+/* Admin-only link sections under a post */
+.post-links + .post-links { margin-top: 24px; }
