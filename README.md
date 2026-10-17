@@ -8,7 +8,7 @@ From your goblog: **Admin → Themes → Browse → Forest → Install**, then *
 
 ## What it overrides
 
-Only the public-facing templates (`header`, `footer`, `home`, `post`, `posts`, the page types, `tag`, `search`, `projects`, `presentations`, `error`, `login`, `research`) and `static/css/goblog.css`. Admin and wizard pages render from goblog's default theme, so they keep up with new goblog releases automatically.
+Only the public-facing templates (`header`, `footer`, `home`, `post`, the page types, `tag`, `search`, `error`, `login`) and `static/css/goblog.css`. Admin and wizard pages render from goblog's default theme, so they keep up with new goblog releases automatically.
 
 ## Developing
 

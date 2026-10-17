@@ -1,3 +1,7 @@
+## 1.5.1
+
+- Removed `posts.html`, `presentations.html`, `projects.html` and `research.html`. goblog never renders them (the Research page comes from the page templates), and three of them pointed at photos and a video goblog 0.15.0 no longer ships (goblog #677).
+
 ## 1.5.0
 
 - The login page offers goblog's password form (the shared `_password_login` partial) when the site has a password account, under the GitHub button. Until now a site with both GitHub login and a password admin showed only GitHub on this theme (goblog #666).
